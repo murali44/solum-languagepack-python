@@ -8,6 +8,6 @@ pip help
 cd /app
 
 # install dependencies from app requirements file
-pip install -r requirements.txt
+pip install -r requirements1.txt
 
 exit 0
